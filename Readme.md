@@ -3,7 +3,7 @@
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [OnLoad.aspx](./CS/WebSite/OnLoad.aspx) (VB: [OnLoad.aspx](./VB/WebSite/OnLoad.aspx))
-* [OnPostback.aspx](./CS/WebSite/OnPostback.aspx) (VB: [OnPostback.aspx.vb](./VB/WebSite/OnPostback.aspx.vb))
+* [OnPostback.aspx](./CS/WebSite/OnPostback.aspx) (VB: [OnPostback.aspx](./VB/WebSite/OnPostback.aspx))
 * [OnPostback.aspx.cs](./CS/WebSite/OnPostback.aspx.cs) (VB: [OnPostback.aspx.vb](./VB/WebSite/OnPostback.aspx.vb))
 <!-- default file list end -->
 # How to show ASPxLoadingPanel on page startup
