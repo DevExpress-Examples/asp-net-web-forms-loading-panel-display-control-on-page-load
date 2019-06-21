@@ -7,6 +7,9 @@
 * [OnPostback.aspx.cs](./CS/WebSite/OnPostback.aspx.cs) (VB: [OnPostback.aspx.vb](./VB/WebSite/OnPostback.aspx.vb))
 <!-- default file list end -->
 # How to show ASPxLoadingPanel on page startup
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4013/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to show ASPxLoadingPanel when a page is loaded:</p><p>- Show the <strong>ASPxLoadingPanel</strong> via the client-side <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxLoadingPanelScriptsASPxClientLoadingPanel_Showtopic"><u>ASPxClientLoadingPanel.Show</u></a> method;<br />
