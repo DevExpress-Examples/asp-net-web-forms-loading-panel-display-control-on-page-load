@@ -1,7 +1,7 @@
 ﻿Imports Microsoft.VisualBasic
 Imports System
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class OnPostback
 	Inherits System.Web.UI.Page
