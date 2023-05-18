@@ -38,7 +38,7 @@ function OnControlsInitialized(s, e) {
 </dx:ASPxGlobalEvents>
 ```
 
-To invoke a loading panel before a postback, handle the form's client-side `onsubmit` event and call the panel's `Show` method in the handler. After the entire page is reloaded, the panel will be hidden.
+To invoke a loading panel before a postback, handle the form's client-side `onsubmit` event and call the panel's `Show` method in the handler. After the entire page is reloaded, the panel is hidden.
 
 ```js
 function OnSubmit() {
