@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # How to show ASPxLoadingPanel on page startup
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4013/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565182/)**
 <!-- run online end -->
 
 
