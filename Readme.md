@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Loading Panel for ASP.NET Web Forms - How to show a loading panel on page load
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128565182/)**
-<!-- run online end -->
 
 This example demonstrates how to use the loading panel's client-side functionality to invoke the panel on page load. The following approaches are available:
 * Show the panel on the first page load and after a postback ([OnLoad.aspx](./CS/WebSite/OnLoad.aspx)).
